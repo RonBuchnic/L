@@ -3,6 +3,7 @@ The SOM algorithm is based on unsupervised, competitive learning. It provides a 
 In this implementaion the grid represente two-dimensional samples sampled as follow:
 
 x1: Sampled from a uniform distribution on [-1, 1]
+
 x2: Sampled from a uniform distribution on [-1, 1] In the probability of p, 
     and In the probability of 1-p Sampled from Sin(f x1) + epsilon where epsilon Sampled from Normal distribution.
 
