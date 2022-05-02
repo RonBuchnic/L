@@ -1,5 +1,6 @@
-# The SOM algorithm is based on unsupervised, competitive learning. It provides a topology preserving mapping from the high dimensional space to map units.
-# In this implementaion the grid represente two-dimensional samples sampled as follow:
+# The SOM algorithm 
+is based on unsupervised, competitive learning. It provides a topology preserving mapping from the high dimensional space to map units.
+In this implementaion the grid represente two-dimensional samples sampled as follow:
 
 x1: Sampled from a uniform distribution on [-1, 1]
 x2: Sampled from a uniform distribution on [-1, 1] In the probability of p, 
