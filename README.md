@@ -1,6 +1,7 @@
 # The SOM algorithm 
 The SOM algorithm is based on unsupervised, competitive learning. It provides a topology preserving mapping from the high dimensional space to map units.
 Read more: https://medium.com/machine-learning-researcher/self-organizing-map-som-c296561e2117
+
 In this implementaion the grid represente two-dimensional samples sampled as follow:
 
 x1: Sampled from a uniform distribution on [-1, 1]
